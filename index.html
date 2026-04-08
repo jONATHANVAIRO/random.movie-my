@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>M Y J MOVIES</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link
+rel="stylesheet"
+href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"
+/>
+
+</head>
+
+<body>
+
+<header>
+<h1>¿QUE PELI VEMOS?</h1>
+</header>
+
+<section class="hero">
+
+<img id="posterGrande" src="">
+
+<h2 id="titulo">🎬 Elegí una película</h2>
+
+<div class="buttons">
+
+<button onclick="randomMovie()">🎲 Película Random</button>
+<button onclick="randomMovie()">🔄 Otra</button>
+
+<a id="verPeli" target="_blank">
+<button class="watch">▶ Ver película</button>
+</a>
+
+</div>
+
+</section>
+
+<section class="carousel-section">
+
+<h3>LISTA DE PELICULAS BY MARILYN Y JONATHAN <3</h3>
+
+<div class="swiper mySwiper">
+<div class="swiper-wrapper" id="carousel"></div>
+<div class="swiper-button-next"></div>
+<div class="swiper-button-prev"></div>
+</div>
+
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
