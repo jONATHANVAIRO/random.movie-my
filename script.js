@@ -29,7 +29,7 @@ titulo:"HAMNET",
 poster:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SrMQ-MzYgp8_IVmZXb4hR2E_pT5e8w0HIW-j4vW6U9V11Fw36RrUalCtyHFqOSvi6l2wSkTTiZKDnNe8t1FtDYof0sbmEF5LooWCLw&s=10",
 link:""
 },
-{
+
 
 {
 titulo:"Valor Sentimental",
