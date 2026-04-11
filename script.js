@@ -58,7 +58,7 @@ carousel.innerHTML += `
 
 new Swiper(".mySwiper", {
 
-slidesPerView:2,
+slidesPerView:1,
 spaceBetween:20,
 loop:true,
 
@@ -76,11 +76,11 @@ slidesPerView:2
 },
 
 600: {
-slidesPerView:3
+slidesPerView:2
 },
 
 900: {
-slidesPerView:4.3
+slidesPerView:2
 }
 
 }
