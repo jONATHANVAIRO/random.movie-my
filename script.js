@@ -1,10 +1,6 @@
 const peliculas = [
 
-{
-titulo:"Hombre Irracional",
-poster:"https://cdn.cinencuentro.com/wp-content/uploads/2016/01/irrational_man-italian-poster.jpg",
-link:"https://www.netflix.com/title/80039308"
-},
+
 
 {
 titulo:"Una batalla tras otra",
@@ -21,11 +17,7 @@ titulo:"In the mood for love",
 poster:"https://m.media-amazon.com/images/I/61VdSeKt8SL._AC_UF894,1000_QL80_.jpg",
 link:"https://m.ok.ru/video/4198068652660"
 },
-{
-titulo:"DEMOLITION",
-poster:"https://m.media-amazon.com/images/M/MV5BNTEwYmRiZWMtOTM4OS00YzA0LTgyMWUtOTk5NzZkZDBmNWE0XkEyXkFqcGc@._V1_.jpg",
-link:"https://play.hbomax.com/movie/90533752-ae6d-47da-b0ff-423f72474760"
-},
+
 
 {
 titulo:"tHE WORST PERSON IN THE WORLD",
@@ -38,10 +30,6 @@ poster:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2SrMQ-MzYgp8_IVmZ
 link:""
 },
 {
-titulo:"ANNIE HALL",
-poster:"https://m.media-amazon.com/images/M/MV5BNjZlOWE5N2UtMTdhZC00NjU5LTg2MjYtOGU4NDhhNWNlMmRlXkEyXkFqcGc@._V1_.jpg",
-link:"https://m.ok.ru/video/91364330056"
-},
 
 {
 titulo:"Valor Sentimental",
